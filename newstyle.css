@@ -1,8 +1,22 @@
 nav {
 display: flex;
 justify-content: space-between;
+padding: 5px;
 }
 body{
     background-color: blanchedalmond;
     font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    text-align: center;
+    background-color: rgb(182, 164, 74);
+}
+nav{
+    background-color: brown;
+    color: whitesmoke;
+}
+.nav-link{
+    display: flex;
+    color: white;
+    gap: 20px;
 }
